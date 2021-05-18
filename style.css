@@ -1,0 +1,38 @@
+* {
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.search {
+    background-color: #F5F5F5;
+    border: 2px solid #27A0A1;
+    color: #27A0A1;
+    height: 30px;
+    width: 150px;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 550;
+}
+
+.add {
+    background-color: #36D1B2;
+    color: white;
+    font-size: 30px;
+    height: 50px;
+    width: 50px;
+    border: none;
+    border-radius: 50%;
+}
+
+.createacc {
+    background-color: #2B78E4;
+    color: white;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    height: 50px;
+    width: 200px;
+    border: 3px solid black;
+    box-shadow: 5px 5px 1px black;
+}
